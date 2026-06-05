@@ -6,7 +6,5 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC9611489/pdf/sensors-22-07902.pdf
 #Link al dataset
 https://zenodo.org/records/7064324
 
-#Tareas hechas Joaquin
-- Descargar el dataset y asignar conjuntos de datos a los integrantes
-- Lectura del paper referente al datset
-- 
+
+
