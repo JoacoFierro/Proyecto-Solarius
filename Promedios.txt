@@ -1,0 +1,21 @@
+
+--- Dataset Extra Promedio de Métricas ---
+MSE         0.007520
+PSNR_dB    27.658908
+SSIM        0.764239
+--- Dataset Benjamin Promedio de Métricas ---
+MSE         0.004065
+PSNR_dB    25.032789
+SSIM        0.758701
+--- Dataset Jose Promedio de Métricas ---
+MSE         0.005867
+PSNR_dB    23.411941
+SSIM        0.683601
+--- Dataset Nayely Promedio de Métricas ---
+MSE         0.002390
+PSNR_dB    29.012113
+SSIM        0.701866
+--- Dataset Joaquin Promedio de Métricas ---
+MSE         0.004451
+PSNR_dB    26.755838
+SSIM        0.673906
